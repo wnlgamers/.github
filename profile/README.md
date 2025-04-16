@@ -1,12 +1,21 @@
-## Hi there 👋
+# WNL Gamers
 
-<!--
+Welcome to the WNL Gamers GitHub organisation — home of our community board game club based in Wootton, Bedford.
 
-**Here are some ideas to get you started:**
+We host regular game nights with a friendly, welcoming atmosphere and a growing collection of games for all experience levels.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🔗 Visit our website: [wnlgamers.uk](https://www.wnlgamers.uk)
+
+---
+
+## Contributing
+
+Want to help improve the website or suggest updates? We'd love to hear from you!
+
+👉 Check out the [Issues section](https://github.com/wnlgamers/website/issues) of our website repository to view open tasks or make a suggestion.
+
+For technical guidance and contribution tips, see our [Contributing Guidelines](https://github.com/wnlgamers/website/blob/main/CONTRIBUTING.md).
+
+---
+
+This space contains the source code and supporting resources for our website and related development.
